@@ -4,7 +4,7 @@ preview:
 build:
 	hugo
 
-deploy:
+deploy: build
 	cd public
 	git add .
 	git commit -m "Rebuild site $(date)"
