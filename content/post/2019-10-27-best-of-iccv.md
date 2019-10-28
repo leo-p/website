@@ -13,11 +13,11 @@ tags:
   - conference
 ---
 
-![ICCV 2019 banner](/images/2019-10-26-iccv-banner.png)
+{{% figure class="center" src="/images/2019-10-26-iccv-banner.png" title="Banner for the 2019 International Conference on Computer Vision in Seoul" alt="Banner for the 2019 International Conference on Computer Vision in Seoul" %}}
 
 # International Conference on Computer Vision
 
-[ICCV 2019](http://iccv2019.thecvf.com/) is one of the two foremost conferences on Computer Vision/Deep Learning. They are a lot of sessions and paper presentation including:
+[ICCV](http://iccv2019.thecvf.com/) is one of the two foremost conferences on Computer Vision/Deep Learning. They are a lot of sessions and paper presentation including:
 
 - Tutorials: grand lectures with broad topic and low requirements.
 - Workshops: latest paper and work to be published grouped by suject.
@@ -31,14 +31,12 @@ All papers can be found on the [Computer Vision Fondation](http://openaccess.the
 - **Understanding Deep Networks via Extremal Perturbations and Smooth Masks**, [arXiv](https://arxiv.org/abs/1910.08485)
 
 Very interesting occlusion technique to find the best 10% of an image that best explain the classification score.
-
-![Extremal Perturbations](/images/2019-10-28-extremal-perturbations.png)
+{{% figure class="center" src="/images/2019-10-28-extremal-perturbations.png" title="Extremal Perturbations" alt="Extremal Perturbations" %}}
 
 - **Towards best practice in explaining neural network decisions with LRP**, [arXiv](https://arxiv.org/abs/1910.09840)
 
 Use Layer-wise Relevance Propagation to explain which part of an image matter to the classification task. Contrary to the previous technique, this implies diving inside the actual network.
-
-![LRP](/images/2019-10-28-layer-wise-relevance-propagation.png)
+{{% figure class="center" src="/images/2019-10-28-layer-wise-relevance-propagation.png" title="Layer-wise Relevance Propagation" alt="Layer-wise Relevance Propagation" %}}
 
 # Day 2 - Recognition
 
@@ -47,8 +45,7 @@ Use Layer-wise Relevance Propagation to explain which part of an image matter to
 - **Mesh R-CNN**, [arXiv](https://arxiv.org/abs/1906.02739)
 
 Evolution of Mask R-CNN but for 3D shapes.
-
-![Mesh R-CNN](/images/2019-10-28-mesh-r-cnn.png)
+{{% figure class="center" src="/images/2019-10-28-mesh-r-cnn.png" title="Mesh R-CNN" alt="Mesh R-CNN" %}}
 
 - **Detectron2**, [GitHub](https://github.com/facebookresearch/detectron2)
 
@@ -56,7 +53,7 @@ Facebook detection model zoo for PyTorch.
 
 - **Deformable convolution**, [arXiv](https://arxiv.org/abs/1703.06211)
 
-Old paper, at least not from this year, but deemed very worthwhile. Might be worth a second look.
+Old paper that might be worth a second look.
 
 # Day 3
 # Day 4
