@@ -2,7 +2,6 @@
 title: ICCV 2019
 summary: The best of the 2019 International Conference on Computer Vision.
 date: 2019-10-27T19:00:00-07:00
-lastMod: 2019-10-28T19:00:00-07:00
 draft: false
 categories:
   - tech
