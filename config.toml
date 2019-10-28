@@ -33,20 +33,15 @@ copyright = ""  # default: author.name
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[menu.main]]
   name = "Categories"
-  weight = 30
+  weight = 20
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
-  name = "About"
-  weight = 40
-  identifier = "about"
-  url = "/about/"
+  name = "Archives"
+  weight = 30
+  identifier = "archives"
+  url = "/post/"
 
 [params]
   version = "4.x"
