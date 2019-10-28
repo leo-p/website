@@ -46,7 +46,8 @@ $ brew cask install \
     minikube \                    # Kubernetes
     transmission \                # Torrent client
     nord-vpn \                    # VPN
-    vlc                           # Media player
+    vlc \                         # Media player
+    calibre                       # ebook management
 ```
 
 ### Terminal applications
