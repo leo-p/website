@@ -47,7 +47,8 @@ $ brew cask install \
     transmission \                # Torrent client
     nord-vpn \                    # VPN
     vlc \                         # Media player
-    calibre                       # ebook management
+    calibre \                     # ebook management
+    flux                          # lighting
 ```
 
 ### Terminal applications
@@ -65,8 +66,7 @@ brew install \
     zsh-autosuggestions \         # zsh completion
     zsh-syntax-highlighting \     # zsh highlighting
     npm \                         # Node packet manager
-    kubectx \                     # k8s environment management
-    kubens
+    kubectx                       # k8s environment management
 ```
 
 ### Terminal setup
