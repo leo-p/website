@@ -1,6 +1,6 @@
 # Website
 
-Static personal website [leo-p.github.io/](https://leo-p.github.io/)based on [hugo](https://gohugo.io) and the [even theme](https://gohugo.io).
+Personal website [leo-p.github.io](https://leo-p.github.io/) built with [hugo](https://gohugo.io) and the [even](https://gohugo.io) theme.
 
 ## Install
 ```console
@@ -14,15 +14,21 @@ $ hugo server -D
 
 ## Build
 ```console
-$ rm -rf *
 $ hugo
 ```
 
 ## Deploy
 ```console
 $ cd public
+$ git add .
+$ git commit -m "Rebuild site $(date)"
+$ git push
+$ cd ..
 ```
 
 ## Makefile
 ```console
-$
+$ make preview
+$ make build
+$ make deploy
+```
