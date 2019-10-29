@@ -9,7 +9,7 @@ tags:
   - self-help
 ---
 
-{{% figure class="center" src="/images/book-cover/i-will-teach-you-to-be-rich.jpg" title="I Will Teach You to Be Rich - Ramit Sethi" alt="I Will Teach You to Be Rich - Ramit Sethi" %}}
+{{% figure class="center" src="/images/book-cover/i-will-teach-you-to-be-rich.jpg" title="⭐️⭐️️️️⭐️⭐️ | I Will Teach You to Be Rich - Ramit Sethi" alt="I Will Teach You to Be Rich - Ramit Sethi" %}}
 
 On the second edition of the book, Ramit goes over everything that makes up your personal finance.
 This book is cleary aimed for the american crowd, with a large chunk of it dediacted to credit card debt management and psychology. This is the section that least interested me.
