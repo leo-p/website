@@ -48,7 +48,8 @@ $ brew cask install \
     nord-vpn \                    # vpn
     vlc \                         # media player
     calibre \                     # ebook management
-    flux                          # lighting
+    flux \                        # lighting
+    imageoptim                    # image optimization for website
 ```
 
 ### Terminal applications
