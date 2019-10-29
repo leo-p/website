@@ -55,14 +55,16 @@ Evolution of Mask R-CNN but for 3D shapes.
 - ️️️⭐️️️️️⭐️ | **Detectron2**<br/>
 [GitHub](https://github.com/facebookresearch/detectron2)
 
-Facebook detection model zoo for PyTorch.
+Facebook detection model zoo for PyTorch steaming from Mask R-CNN. Includes a lot of task such as segmentation, pose estimation, etc.
+
+{{% figure class="center" src="/images/papers/2019-10-29-detectron2-zoo.png" title="Detectron2 Zoo" alt="Detectron2 Zoo" %}}
 
 # Day 3 - Kickoff
 
 ## Awards
 
 - ️️️⭐️️️️️️️️⭐️️️️️⭐️⭐️ | **SinGAN, Learning a Generative Model from a Single Natural Image**<br/>
-[arXiv](https://arxiv.org/abs/1905.01164), [GitHub](https://github.com/tamarott/SinGAN)
+[arXiv](https://arxiv.org/abs/1905.01164), [GitHub](https://github.com/tamarott/SinGAN), [summary]({{< ref "/post/papers/2019-10-29-singan.md" >}})
 
 This paper received the *best paper award* and understandably so. They train a GAN on a single image for various image manipulation, super resolution, etc. All from the same model.
 
