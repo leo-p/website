@@ -24,29 +24,29 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ### Graphical applications
 ```zsh
 $ brew cask install \
-    iterm2 \                      # Improved terminal
-    alfred \                      # Spotlight replacement
-    firefox \                     # Firefox web-browser
-    google-chrome \               # Chrome web-browser
+    iterm2 \                      # improved terminal
+    alfred \                      # spotlight replacement
+    firefox \                     # firefox web-browser
+    google-chrome \               # chrome web-browser
     vscodium \                    # IDE without telemetry
-    1password \                   # Password manager
-    dropbox \                     # Dropbox client
-    google-drive-file-stream \    # Google Drive Pro
-    caffeine \                    # Keep Mac awake
-    nosleep \                     # Lid hibernation
-    spectacle \                   # Panel management
-    slack \                       # Communication
-    slite \                       # Knowledge management pro
-    notion \                      # Knowledge management perso
-    toggl \                       # Time management
-    skype \                       # Skype perso
-    skype-for-business \          # Skype pro
-    spotify \                     # Music
-    docker \                      # Docker CE
-    minikube \                    # Kubernetes
-    transmission \                # Torrent client
-    nord-vpn \                    # VPN
-    vlc \                         # Media player
+    1password \                   # password manager
+    dropbox \                     # dropbox client
+    google-drive-file-stream \    # google drive pro
+    caffeine \                    # keep mac awake
+    nosleep \                     # lid hibernation
+    spectacle \                   # panel management
+    slack \                       # communication
+    slite \                       # knowledge management pro
+    notion \                      # knowledge management perso
+    toggl \                       # time management
+    skype \                       # skype perso
+    skype-for-business \          # skype pro
+    spotify \                     # music
+    docker \                      # docker ce
+    minikube \                    # kubernetes
+    transmission \                # torrent client
+    nord-vpn \                    # vpn
+    vlc \                         # media player
     calibre \                     # ebook management
     flux                          # lighting
 ```
@@ -54,19 +54,21 @@ $ brew cask install \
 ### Terminal applications
 ```zsh
 brew install \
-    git \                         # Version Control
-    bat \                         # Image visualisation
-    nmap \                        # Network debuging
-    htop \                        # Performance monitoring
-    tmux \                        # Session management
-    pyenv \                       # Python version management - 1
-    p                             # Python version management - 2
-    hugo \                        # Static website builder
-    tree \                        # Directory visualization
+    git \                         # version control
+    bat \                         # image visualisation
+    nmap \                        # network debuging
+    htop \                        # performance monitoring
+    tmux \                        # session management
+    pyenv \                       # python version management - 1
+    p                             # python version management - 2
+    hugo \                        # static website builder
+    tree \                        # directory visualization
     zsh-autosuggestions \         # zsh completion
     zsh-syntax-highlighting \     # zsh highlighting
-    npm \                         # Node packet manager
-    kubectx                       # k8s environment management
+    npm \                         # node packet manager
+    kubectx \                     # k8s environment management
+    azure-cli \                   # azure cloud cli
+    ffmpeg                        # video manipulation
 ```
 
 ### Terminal setup
