@@ -55,7 +55,20 @@ Facebook detection model zoo for PyTorch.
 
 Old paper that might be worth a second look.
 
-# Day 3
+# Day 3 - Kickoff
+
+## Awards
+
+- **SinGAN, Learning a Generative Model from a Single Natural Image**, [arXiv](https://arxiv.org/abs/1905.01164)
+
+This paper received the *best paper award* and understandably so. They train a GAN on a single image for various image manipulation, super resolution, etc. All from the same model.
+
+{{% figure class="center" src="/images/2019-10-29-singan.png" title="SinGAN Image Manipulation" alt="SinGAN Image Manipulation" %}}
+
+- **Asynchronous Single-Photon 3D Imaging**, [arXiv](https://arxiv.org/abs/1908.06372)
+
+Very interesting paper on the single-photon sensor and especially its application to 3D imaging.
+
 # Day 4
 # Day 5
 # Day 6
