@@ -68,7 +68,8 @@ brew install \
     npm \                         # node packet manager
     kubectx \                     # k8s environment management
     azure-cli \                   # azure cloud cli
-    ffmpeg                        # video manipulation
+    ffmpeg \                      # video manipulation
+    imagemagick                   # image manipulation
 ```
 
 ### Terminal setup
