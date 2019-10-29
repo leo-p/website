@@ -47,7 +47,7 @@ Use Layer-wise Relevance Propagation to explain which part of an image matter to
 ## Visual Recognition for Images, Video, and 3D ([tutorial](https://alexander-kirillov.github.io/tutorials/visual-recognition-iccv19/))
 
 - ️️️⭐️️️️️️️️⭐️️️️️⭐️ | **Mesh R-CNN**<br/>
-[arXiv](https://arxiv.org/abs/1906.02739)
+[arXiv](https://arxiv.org/abs/1906.02739), [summary]({{< ref "/post/papers/2019-10-29-mesh-r-cnn.md" >}})
 
 Evolution of Mask R-CNN but for 3D shapes.
 {{% figure class="center" src="/images/2019-10-28-mesh-r-cnn.png" title="Mesh R-CNN" alt="Mesh R-CNN" %}}
