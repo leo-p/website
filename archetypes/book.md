@@ -9,7 +9,7 @@ tags:
   - tag2
 ---
 
-{{% figure class="center" src="/images/cover.png" title="Title - Author" alt="Title - Author" %}}
+{{% figure class="center" src="/images/cover.png" title="⭐️⭐️️️️⭐️⭐️️️⭐️ | Title - Author" alt="Title - Author" %}}
 
 Summary of what's going on in the book
 
