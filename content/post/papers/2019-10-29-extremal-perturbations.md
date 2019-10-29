@@ -1,7 +1,7 @@
 ---
 title: "Extremal Perturbations"
 date: 2019-10-29T16:46:53+09:00
-draft: true
+draft: false
 categories:
   - paper-review
 tags:
@@ -9,9 +9,10 @@ tags:
   - computer-vision
   - deep-learning
   - iccv-2019
+  - interpretability
 ---
 
-- ️️️️⭐️️️️️️️⭐️️️️️️️️⭐️️️️️ | **Understanding Deep Networks via Extremal Perturbations and Smooth Masks**<br/>
+- ️️️️⭐️️️️️️️⭐️️️️️️️️⭐️️️️️⭐️⭐️ | **Understanding Deep Networks via Extremal Perturbations and Smooth Masks**<br/>
 [arXiv](https://arxiv.org/abs/1910.08485), [GitHub](https://github.com/facebookresearch/TorchRay)
 
 Very cool paper diving into interpretability! They identify the most relevant parts of an image for a classifier. Or said differently, the parts that best explain the prediction score.
