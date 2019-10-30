@@ -39,10 +39,14 @@ All papers can be found on the [Computer Vision Fondation](http://openaccess.the
 - ️️️**Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving**<br/>
 ⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1904.04620), [GitHub](https://github.com/jwchoi384/Gaussian_YOLOv3)
 - ️️️**Asynchronous Single-Photon 3D Imaging**<br/>
-⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1908.06372)
+⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1908.06372), [summary]({{< ref "/post/papers/2019-10-30-single-photon-3d.md" >}})
 - **TensorMask: A Foundation for Dense Object Segmentation**<br/>
 ⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1903.12174), [GitHub](https://github.com/MichaelBeechan/TensorMask-Review)
 - ️️️**Detectron2**<br/>
 ⭐️️️️️⭐️ | [GitHub](https://github.com/facebookresearch/detectron2)
 - **Searching for MobileNetV3**<br/>
 ⭐️️️️️️️️⭐️️️️️ | [arXiv](https://arxiv.org/abs/1905.02244)
+
+
+- Diversity With Cooperation: Ensemble Methods for Few-Shot Classification
+- Bridging the gap

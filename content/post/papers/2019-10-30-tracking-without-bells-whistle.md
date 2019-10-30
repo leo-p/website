@@ -8,6 +8,8 @@ tags:
   - tech
   - computer-vision
   - deep-learning
+  - iccv-2019
+  - tracking
 ---
 
 - ️️️**Tracking Without Bells and Whistles**<br/>
