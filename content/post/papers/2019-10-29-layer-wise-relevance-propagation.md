@@ -12,8 +12,8 @@ tags:
   - interpretability
 ---
 
-- ️️️⭐️️️️️⭐️⭐️ | **Towards best practice in explaining neural network decisions with LRP**<br/>
-[arXiv](https://arxiv.org/abs/1910.09840), [GitHub](https://github.com/VigneshSrinivasan10/interprettensor)
+- ️️️**Towards best practice in explaining neural network decisions with LRP**<br/>
+⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1910.09840), [GitHub](https://github.com/VigneshSrinivasan10/interprettensor)
 
 The LRP or Layer-wise Relevance Propagation aims to explain which parts of an image matter. They achieve this by using a backpropagation where neurons that contribute the most received an increased weight.
 

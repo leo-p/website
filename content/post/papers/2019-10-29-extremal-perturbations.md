@@ -12,8 +12,8 @@ tags:
   - interpretability
 ---
 
-- ️️️️⭐️️️️️️️⭐️️️️️️️️⭐️️️️️⭐️⭐️ | **Understanding Deep Networks via Extremal Perturbations and Smooth Masks**<br/>
-[arXiv](https://arxiv.org/abs/1910.08485), [GitHub](https://github.com/facebookresearch/TorchRay)
+- ️️️️**Understanding Deep Networks via Extremal Perturbations and Smooth Masks**<br/>
+⭐️️️️️️️⭐️️️️️️️️⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1910.08485), [GitHub](https://github.com/facebookresearch/TorchRay)
 
 Very cool paper diving into interpretability! They identify the most relevant parts of an image for a classifier. Or said differently, the parts that best explain the prediction score.
 

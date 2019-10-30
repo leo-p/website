@@ -10,8 +10,8 @@ tags:
   - deep-learning
 ---
 
-# ⭐️️️️️️️⭐️️️️️️️️⭐️️️️️ | **Title of the paper**<br/>
-[arXiv](arxiv.org, [GitHub](github.com)
+# **Title of the paper**<br/>
+⭐️️️️️️️⭐️️️️️️️️⭐️️️️️ | [arXiv](arxiv.org, [GitHub](github.com)
 
 Short abstract summary of what the paper does.
 
