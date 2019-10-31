@@ -15,7 +15,7 @@ pygmentsCodefences = true
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
-paginate = 5
+paginate = 10
 googleAnalytics = "UA-151013843-1"
 copyright = ""  # default: author.name
 
