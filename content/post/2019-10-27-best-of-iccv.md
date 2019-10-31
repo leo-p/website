@@ -34,6 +34,8 @@ All papers can be found on the [Computer Vision Fondation](http://openaccess.the
 ⭐️️️️️️️️⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1905.01164), [GitHub](https://github.com/tamarott/SinGAN), [summary]({{< ref "/post/papers/2019-10-29-singan.md" >}})
 - **Rethinking ImageNet Pre-Training**<br/>
 ⭐️️️️️️⭐️️️️⭐️️️️️️⭐️️️️️️ | [arXiv](https://arxiv.org/abs/1811.08883), [summary]({{< ref "/post/papers/2019-10-31-rethinking-imagenet-pretraining.md" >}})
+- **Towards Unconstrained End-to-End Text Spotting**<br/>
+⭐️️️️️️⭐️️️️⭐️️️️️️⭐️️️️️️ | [arXiv](https://arxiv.org/abs/1908.09231), [summary]({{< ref "/post/papers/2019-10-31-end-to-end-text-spotting.md" >}})
 - ️️️**Towards best practice in explaining neural network decisions with LRP**<br/>
 ⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1910.09840), [GitHub](https://github.com/VigneshSrinivasan10/interprettensor), [summary]({{< ref "/post/papers/2019-10-29-layer-wise-relevance-propagation.md" >}})
 - ️️️**Mesh R-CNN**<br/>
@@ -54,5 +56,3 @@ To do:
 ⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1903.12174), [GitHub](https://github.com/MichaelBeechan/TensorMask-Review)
 - **Diversity With Cooperation: Ensemble Methods for Few-Shot Classification**<br/>
 ⭐️️️️️️⭐️️️️⭐️️️️️️ | [arXiv](https://arxiv.org/abs/1903.11341), [GitHub](https://github.com/dvornikita/fewshot_ensemble)
-- **Towards Unconstrained End-to-End Text Spotting**<br/>
-⭐️️️️️️⭐️️️️⭐️️️️️️⭐️️️️️️ | [arXiv](https://arxiv.org/abs/1908.09231)
