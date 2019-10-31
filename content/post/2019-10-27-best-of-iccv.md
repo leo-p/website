@@ -1,5 +1,5 @@
 ---
-title: ICCV 2019
+title: "[Blog] ICCV 2019"
 summary: The best of the 2019 International Conference on Computer Vision.
 date: 2019-10-27T19:00:00-07:00
 draft: false
@@ -37,16 +37,17 @@ All papers can be found on the [Computer Vision Fondation](http://openaccess.the
 - ️️️**Mesh R-CNN**<br/>
 ⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1906.02739), [summary]({{< ref "/post/papers/2019-10-29-mesh-r-cnn.md" >}})
 - ️️️**Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving**<br/>
-⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1904.04620), [GitHub](https://github.com/jwchoi384/Gaussian_YOLOv3)
+⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1904.04620), [GitHub](https://github.com/jwchoi384/Gaussian_YOLOv3), [summary]({{< ref "/post/papers/2019-10-31-yolov3-gaussian.md" >}})
 - ️️️**Asynchronous Single-Photon 3D Imaging**<br/>
 ⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1908.06372), [summary]({{< ref "/post/papers/2019-10-30-single-photon-3d.md" >}})
+
+To do:
+
 - **TensorMask: A Foundation for Dense Object Segmentation**<br/>
 ⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1903.12174), [GitHub](https://github.com/MichaelBeechan/TensorMask-Review)
 - ️️️**Detectron2**<br/>
 ⭐️️️️️⭐️ | [GitHub](https://github.com/facebookresearch/detectron2)
 - **Searching for MobileNetV3**<br/>
 ⭐️️️️️️️️⭐️️️️️ | [arXiv](https://arxiv.org/abs/1905.02244)
-
-
 - Diversity With Cooperation: Ensemble Methods for Few-Shot Classification
 - Bridging the gap

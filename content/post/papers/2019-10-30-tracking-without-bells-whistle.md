@@ -1,5 +1,5 @@
 ---
-title: "Tracking Without Bells Whistle"
+title: "[Paper] Tracking Without Bells Whistle"
 date: 2019-10-30T12:05:31+09:00
 draft: false
 categories:

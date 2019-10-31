@@ -1,5 +1,5 @@
 ---
-title: New Mac setup
+title: "[Tech] New Mac setup"
 summary: I lost everything on my Mac, so here is a reinstallation from scratch.
 date: 2019-10-25T09:30:00-07:00
 draft: false
@@ -70,7 +70,8 @@ brew install \
     kubectx \                     # k8s environment management
     azure-cli \                   # azure cloud cli
     ffmpeg \                      # video manipulation
-    imagemagick                   # image manipulation
+    imagemagick \                 # image manipulation
+    coreutils                     # core bash utilities
 ```
 
 ### Terminal setup

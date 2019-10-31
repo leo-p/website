@@ -1,5 +1,5 @@
 ---
-title: "Layer Wise Relevance Propagation"
+title: "[Paper] Layer Wise Relevance Propagation"
 date: 2019-10-29T17:13:48+09:00
 draft: false
 categories:
