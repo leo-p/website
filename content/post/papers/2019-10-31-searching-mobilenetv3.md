@@ -1,5 +1,5 @@
 ---
-title: "[Paper] Searching MobileNetV3"
+title: "[Paper] MobileNetV3"
 date: 2019-10-31T10:08:42+09:00
 draft: false
 categories:

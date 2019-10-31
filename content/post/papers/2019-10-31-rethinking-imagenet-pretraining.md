@@ -1,5 +1,5 @@
 ---
-title: "[Paper] Rethinking ImageNet Pre-Training"
+title: "[Paper] ImageNet Pre-Training"
 date: 2019-10-31T11:41:15+09:00
 draft: false
 categories:

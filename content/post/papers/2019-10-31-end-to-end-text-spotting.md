@@ -1,5 +1,5 @@
 ---
-title: "[Paper] Towards Unconstrained End-to-End Text Spotting"
+title: "[Paper] End-to-End OCR"
 date: 2019-10-31T13:41:01+09:00
 draft: false
 categories:

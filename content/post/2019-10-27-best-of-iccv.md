@@ -49,10 +49,17 @@ All papers can be found on the [Computer Vision Fondation](http://openaccess.the
 - ️️️**Detectron2, FAIR's detection algorithms zoo and framework**<br/>
 ⭐️️️️️⭐️ | [GitHub](https://github.com/facebookresearch/detectron2)
 
-
 To do:
 
 - **TensorMask: A Foundation for Dense Object Segmentation**<br/>
-⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1903.12174), [GitHub](https://github.com/MichaelBeechan/TensorMask-Review)
-- **Diversity With Cooperation: Ensemble Methods for Few-Shot Classification**<br/>
-⭐️️️️️️⭐️️️️⭐️️️️️️ | [arXiv](https://arxiv.org/abs/1903.11341), [GitHub](https://github.com/dvornikita/fewshot_ensemble)
+⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1903.12174), [GitHub](https://github.com/MichaelBeechan/TensorMask-Review), [summary]({{< ref "/post/papers/2019-10-31-tensormask.md" >}})
+- **Anchor Loss: Modulating Loss Scale Based on Prediction Difficulty**<br/>
+⭐️️️️️️️️⭐️️️️️⭐️ | [arXiv](https://arxiv.org/abs/1909.11155)
+
+
+Old papers worth a second look:
+- Mask R-CNN
+- Focal Loss
+- Transformers
+- Retina Net
+- SSD
