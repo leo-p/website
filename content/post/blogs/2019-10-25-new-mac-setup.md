@@ -1,5 +1,5 @@
 ---
-title: "[Tech] New Mac setup"
+title: "[Blog] New Mac setup"
 summary: I lost everything on my Mac, so here is a reinstallation from scratch.
 date: 2019-10-25T09:30:00-07:00
 draft: false
