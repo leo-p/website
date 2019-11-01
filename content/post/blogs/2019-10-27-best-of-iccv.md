@@ -61,6 +61,8 @@ All papers can be found on the [Computer Vision Fondation](http://openaccess.the
 ⭐️️️️️⭐️ | [GitHub](https://github.com/facebookresearch/detectron2)
 
 ## Worth a second look
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding<br/>
+⭐️️️️️️️⭐️️️️️️️️⭐️️️️️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1810.04805), [GitHub](https://github.com/google-research/bert), [summary]({{< ref "/post/papers/2019-11-02-bert.md" >}})
 - Focal Loss for Dense Object Detection<br/>
 ️️⭐️️️️️️️️️️️️️⭐️️️️️️️️️️️️️⭐️️️️️️️️️️️️️⭐️️️️️️️️️⭐️️️ | [arXiv](https://arxiv.org/abs/1708.02002), [GitHub](https://github.com/fizyr/keras-retinanet), [summary]({{< ref "/post/papers/2019-11-01-focal-loss.md" >}})
 - SSD: Single Shot MultiBox Detector<br/>
