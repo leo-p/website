@@ -66,9 +66,10 @@ All papers can be found on the [Computer Vision Fondation](http://openaccess.the
 - Focal Loss for Dense Object Detection<br/>
 ️️⭐️️️️️️️️️️️️️⭐️️️️️️️️️️️️️⭐️️️️️️️️️️️️️⭐️️️️️️️️️⭐️️️ | [arXiv](https://arxiv.org/abs/1708.02002), [GitHub](https://github.com/fizyr/keras-retinanet), [summary]({{< ref "/post/papers/2019-11-01-focal-loss.md" >}})
 - SSD: Single Shot MultiBox Detector<br/>
-⭐️⭐️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1512.02325), [GitHub](https://github.com/balancap/SSD-Tensorflow)
+⭐️⭐️⭐️⭐️ | [arXiv](https://arxiv.org/abs/1512.02325), [GitHub](https://github.com/balancap/SSD-Tensorflow), [summary]({{< ref "/post/papers/2019-11-01-single-shot-multibox-detector.md" >}})
 - Mask R-CNN<br/>
 ⭐️⭐️⭐️⭐️ | [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf), [GitHub](https://github.com/matterport/Mask_RCNN)
 
 To do:
 - On the Efficacy of Knowledge Distillation
+- YOLO Nano
