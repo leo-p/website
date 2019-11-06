@@ -1,5 +1,5 @@
 ---
-title: "[Book] I Will Teach You to Be Rich - Ramit Sethi"
+title: "[Book] I Will Teach You to Be Rich"
 date: 2019-10-26T09:30:00+02:00
 draft: false
 categories:
